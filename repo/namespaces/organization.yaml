@@ -1,0 +1,6 @@
+apiVersion: bespin.dev/v1
+kind: Organization
+metadata:
+  name: zlu-test-git-org
+spec:
+  id: 975672035171
