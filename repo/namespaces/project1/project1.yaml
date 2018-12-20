@@ -1,0 +1,7 @@
+apiVersion: bespin.dev/v1
+kind: Project
+metadata:
+  name: zlu-test-git-project-001
+spec:
+  name: zlu-test-git-project-001
+  id: zlu-test-git-project-001
