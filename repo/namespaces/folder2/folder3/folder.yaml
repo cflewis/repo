@@ -1,6 +1,0 @@
-apiVersion: bespin.dev/v1
-kind: Folder
-metadata:
-  name: zlu-test-git-folder-3
-spec:
-  displayName: zlu-test-git-folder-3
