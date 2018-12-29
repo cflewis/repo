@@ -1,0 +1,7 @@
+apiVersion: bespin.dev/v1
+kind: Folder
+metadata:
+  name: zlu-folder
+spec:
+  displayName: zlu-folder
+  id: 138920254001
