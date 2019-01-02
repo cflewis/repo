@@ -3,4 +3,5 @@ kind: Project
 metadata:
   name: zlu-org-folder1-project2
 spec:
+  id: zlu-org-folder1-project2
   name: zlu-org-folder1-project2
