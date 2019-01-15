@@ -1,0 +1,18 @@
+apiVersion: bespin.dev/v1
+kind: IAMPolicy
+metadata:
+  name: zlu-project-iampolicy
+spec:
+  bindings:
+  - members:
+    - user:zhuzenglu@google.com
+    - user:ttt@google.com
+    - user:shaogang@google.com
+    - user:miaoy@google.com
+    - user:cflewis@google.com
+    - user:lschumacher@google.com
+    - user:ytang@google.com
+    role: roles/editor
+  - members:
+    - serviceAccount:bespin-prototype@bespin-prototype.iam.gserviceaccount.com
+    role: roles/owner
