@@ -1,0 +1,6 @@
+apiVersion: bespin.dev/v1
+kind: Folder
+metadata:
+  name: zlu-folder-folder3-folder4
+spec:
+  displayName: zlu-folder-folder3-folder4

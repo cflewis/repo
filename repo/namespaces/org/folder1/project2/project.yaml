@@ -1,7 +1,7 @@
 apiVersion: bespin.dev/v1
 kind: Project
 metadata:
-  name: zlu-org-folder1-project2
+  name: zlu-org-folder1-project
 spec:
-  displayName: zlu-org-folder1-project2
-  id: zlu-org-folder1-project2-1
+  displayName: zlu-org-folder1-project
+  id: zlu-org-folder1-project2-3
