@@ -1,7 +1,7 @@
 apiVersion: bespin.dev/v1
 kind: Project
 metadata:
-  name: zlu-folder-f3-f4-project5
+  name: zlu-folder-f3-f4-p5
 spec:
-  displayName: zlu-folder-f3-f4-project5
-  id: zlu-folder-f3-f4-project5-4
+  displayName: zlu-folder-f3-f4-p5
+  id: zlu-folder-f3-f4-p5-1
