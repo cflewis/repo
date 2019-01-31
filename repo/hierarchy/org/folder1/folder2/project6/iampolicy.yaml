@@ -1,7 +1,7 @@
 apiVersion: bespin.dev/v1
 kind: IAMPolicy
 metadata:
-  name: zlu-project-iam
+  name: zlu-org-f1-f2-p6-iam
 spec:
   bindings:
   - members:

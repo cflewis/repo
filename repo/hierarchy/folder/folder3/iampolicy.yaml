@@ -1,7 +1,7 @@
 apiVersion: bespin.dev/v1
 kind: IAMPolicy
 metadata:
-  name: zlu-folder-folder3-iampolicy
+  name: zlu-folder-f3-iam
 spec:
   bindings:
   - members:
