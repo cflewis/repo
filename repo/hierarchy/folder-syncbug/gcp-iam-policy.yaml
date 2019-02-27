@@ -5,6 +5,7 @@ metadata:
 spec:
   bindings:
   - members:
+    - user:cflewis@google.com
     - user:zhuzenglu@google.com
     - user:ttt@google.com
     - user:miaoy@google.com
