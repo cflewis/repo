@@ -1,7 +1,7 @@
 apiVersion: bespin.dev/v1
 kind: Project
 metadata:
-  name: cflewis-project
+  name: cflewis-zhuzeng-project
 spec:
-  displayName: cflewis-project
-  id: cflewis-org-p4-0131
+  displayName: cflewis-zhuzeng-project
+  id: cflewis-zhuzeng
