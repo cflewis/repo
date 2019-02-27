@@ -1,7 +1,7 @@
 apiVersion: bespin.dev/v1
 kind: IAMPolicy
 metadata:
-  name: zlu-folder-iamp
+  name: cflewis-folder-iamp
 spec:
   bindings:
   - members:
