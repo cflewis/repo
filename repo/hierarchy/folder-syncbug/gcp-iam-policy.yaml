@@ -1,7 +1,7 @@
 apiVersion: bespin.dev/v1
 kind: IAMPolicy
 metadata:
-  name: folder-syncbug-iamp
+  name: zlu-folder-iamp
 spec:
   bindings:
   - members:
