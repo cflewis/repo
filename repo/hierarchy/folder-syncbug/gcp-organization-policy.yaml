@@ -1,7 +1,7 @@
 apiVersion: bespin.dev/v1
 kind: OrganizationPolicy
 metadata:
-  name: zlu-folder-orgpolicy
+  name: zlu-folder-syncbug
 spec:
   constraints:
   - constraint: constraints/compute.storageResourceUseRestrictions
